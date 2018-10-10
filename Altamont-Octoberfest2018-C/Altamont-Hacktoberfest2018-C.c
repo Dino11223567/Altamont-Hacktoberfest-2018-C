@@ -8,6 +8,7 @@ int main()
 	// Add your code below.
 	char[20] teacher = "Mr. James";
 	printf("Hello, this is %s adding some code", teacher);
+	printf("Hello, I am Henry. I want to sleep");
 	
 	
 	
